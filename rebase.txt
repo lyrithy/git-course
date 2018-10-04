@@ -1,4 +1,4 @@
 rebase example with three branches
 <master>adding line master</master>
 <rebase>adding line C2</rebase>
-
+<new>adding line from expirment branch</new>
